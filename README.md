@@ -1,4 +1,4 @@
 # HelloWorld
-My first Hello World code!
+Hello World codes!
 
 Written in C language.
