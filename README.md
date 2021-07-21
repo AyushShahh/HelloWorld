@@ -13,10 +13,10 @@ Hello! World
 ### hello.c
 I made this after getting my basics done.<br>
 
-Type your name and press enter.<br>
-It will greet you with your name
+Type your first name and press enter.<br>
+It will greet you with your first name
 ```
-Hello! [your name]
+Hello! Ayush
 ```
 <br>
 
